@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Github repositories search",
+    "slug": "react-githubsearch-mobile",
+    "description": "Github repositories search app",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "android"
+    ],
+    "orientation": "default",
+    "backgroundColor": "#3A4047",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#3A4047"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.sxidsvit.reactgithubsearchmobile"
+    }
+  }
+}
